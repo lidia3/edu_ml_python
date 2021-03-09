@@ -38,4 +38,4 @@ def function_task2(list1, list2):
     Modify this function to return concatenated lists
     """
     # TODO write the code
-    return None
+    return list1+list2
